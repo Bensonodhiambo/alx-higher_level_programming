@@ -1,3 +1,3 @@
-#!/bin/bash/python3
-number = 98
-peint(f"{number:d} Battery street")
+#!/bin/python3
+number = 9
+print(f"{number:d} Battery street")
