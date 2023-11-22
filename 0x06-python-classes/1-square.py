@@ -3,11 +3,9 @@
 """Square module."""
 
 
-
 class Square:
 
     """Defines a square."""
-
 
     def __init__(self, size):
 
@@ -20,5 +18,3 @@ class Square:
         """
 
         self.__size = size
-
-
